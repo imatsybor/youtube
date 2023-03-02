@@ -3,9 +3,8 @@ import webbrowser
 import time
 import random
 
-# url = ссылка на видео
 
-lst = ['https://youtu.be/NxdJAT1TZBY',
+lst = ['https://youtu.be/VaRrVMtDvr8', 'https://youtu.be/NxdJAT1TZBY',
        'https://youtu.be/amAJTqH_Kcw', 'https://youtu.be/zEtfDxRuw00',
        'https://youtu.be/uj74-JJyMvI', 'https://youtu.be/SsldnbqaskA',
        'https://youtu.be/VtOmbv93kdE', 'https://youtu.be/dGzpf8svGb0',
@@ -57,7 +56,8 @@ lst = ['https://youtu.be/NxdJAT1TZBY',
        'https://youtu.be/P8UAnNw269Y', 'https://youtu.be/I0pz_QOHNbg',
        'https://youtu.be/Z2-U3rDsq-I', 'https://youtu.be/OxmvnQR_DKA',
        'https://youtu.be/OBIj2KfxloI', 'https://youtu.be/tzP_lkSlFPg',
-       'https://youtu.be/2Euc5uZPSSI', 'https://youtu.be/6S1AWVCm8e4']  # майже весна
+       'https://youtu.be/2Euc5uZPSSI', 'https://youtu.be/6S1AWVCm8e4',
+       'https://youtu.be/UbuSNIoyNkQ', 'https://youtu.be/QkfCIalN3og']
 
 # for i in range кол-во видео
 while len(lst) > 0:
